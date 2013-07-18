@@ -11,7 +11,7 @@ Plugin.create(:mathtex) do
             role: :postbox) do |opt|
         begin
             formula = nil
-            url = "http://","chart.apis.google.com","/chart?cht=tx&chl="
+            url = "http://chart.apis.google.com/chart?cht=tx&chl="
 
             dialog = Gtk::Dialog.new
             entry = Gtk::Entry.new
