@@ -6,4 +6,4 @@ depends:
 version: '1.0'
 author: cocu_628496
 name: mathtex
-description: 'TeXの数式をアップロードする',
+description: 'TeXの数式をアップロードする'
